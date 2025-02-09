@@ -11,22 +11,26 @@ const NoPageThree = () => {
         </div>
         <h1 className="text-4xl sm:text-4xl font-extrabold text-pink-600 text-center leading-tight">Maan ja na! kitna bhav Khaegi???</h1>
         <p className="text-xl sm:text-2xl text-gray-700 text-center font-semibold">Yes Bol De Naa 🥹</p>
-        <div className="flex gap-6 flex-col sm:flex-row w-full mt-4">
+        <div className="flex gap-6 flex-col sm:flex-row mt-4 w-full max-w-md">
           <Link
             to="/yes"
-            className="px-8 py-4 bg-gradient-to-r from-pink-500 to-pink-600 text-white font-bold rounded-full shadow-lg transition-all duration-300 hover:from-pink-600 hover:to-pink-700 hover:shadow-xl text-center text-lg w-full sm:w-auto transform hover:scale-105">
+            className="px-8 py-4 bg-gradient-to-r from-pink-500 to-pink-600 text-white font-bold rounded-full shadow-lg 
+            transition-all duration-300 hover:from-pink-600 hover:to-pink-700 hover:shadow-xl text-center 
+            text-lg w-full transform hover:scale-105">
             Yes
           </Link>
           <Link
             to="/final"
-            className="px-8 py-4 bg-gradient-to-r from-purple-500 to-purple-600 text-white font-bold rounded-full shadow-lg transition-all duration-300 hover:from-purple-600 hover:to-purple-700 hover:shadow-xl text-center text-lg w-full sm:w-auto transform hover:scale-105">
+            className="px-8 py-4 bg-gradient-to-r from-purple-500 to-purple-600 text-white font-bold rounded-full shadow-lg 
+            transition-all duration-300 hover:from-purple-600 hover:to-purple-700 hover:shadow-xl text-center 
+            text-lg w-full transform hover:scale-105">
             No
           </Link>
         </div>
       </div>
-      <footer className="absolute bottom-4 text-white text-sm flex items-center gap-2">
+      <footer className="absolute bottom-4 text-white text-sm flex items-center gap-2 bg-black px-4 py-2 rounded-lg shadow-md">
         <span>Made with</span>
-        <span>❤️</span>
+        <span className="text-red-500">❤️</span>
         <span>by Pratham</span>
       </footer>
     </main>
