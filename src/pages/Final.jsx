@@ -34,7 +34,7 @@ const YesPage = () => {
 
     const timer = setTimeout(() => {
       navigate("/");
-    }, 10000);
+    }, 15000);
 
     return () => clearTimeout(timer);
   }, [navigate]);
