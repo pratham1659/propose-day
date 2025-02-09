@@ -1,0 +1,67 @@
+{
+  "yesJokes": [
+    {
+      "id": 1,
+      "text": "Wait... tu sach mein 'YES' boli? Koi dare wagera toh nahi hai na? 😜"
+    },
+
+    {
+      "id": 2,
+      "text": "Mujhe pata tha! Teri bhi pasand kaafi kharab hai! 😂"
+    },
+    {
+      "id": 3,
+      "text": "YES bol diya? Ab toh tere upar full-time memes aur lame jokes ki zimmedaari hai! 🤡"
+    },
+    {
+      "id": 4,
+      "text": "Ab tu officially mere gusse aur mood swings ko jhelne ke liye tayyar ho ja! 🎭😂"
+    },
+    {
+      "id": 5,
+      "text": "YES bol diya? Bas ab tu life mein arguments jeetne ka sapna chhod de! 😂"
+    },
+    {
+      "id": 6,
+      "text": "Mubarak ho! Tu ab 'No Refunds, No Returns' zone mein aa chuki hai! 😆"
+    },
+    {
+      "id": 7,
+      "text": "YES toh bol diya, par T&C padhe the kya? Ab late ho gaya! 😜"
+    },
+    {
+      "id": 8,
+      "text": "Sach bata, tere paas koi aur option nahi bacha tha na? 🤣"
+    },
+    {
+      "id": 9,
+      "text": "Aaj se officially tu meri bakwaas sunne ke liye appoint ho chuki hai! 😂"
+    }
+  ],
+  "noJokes": [
+    {
+      "id": 1,
+      "text": "Tujhse na sahi, Swiggy waale se toh 'order accepted' sun hi leta hoon! 🍔😂"
+    },
+    {
+      "id": 2,
+      "text": "Tere na bolne se mujhe koi farak nahi padta... bas thoda sa zyada! 😭🤣"
+    },
+    {
+      "id": 3,
+      "text": "Agar na bolna hi tha toh itni khubsurat kyu lag rahi thi aaj? 🤡💔"
+    },
+    {
+      "id": 4,
+      "text": "Haan haan, mujhe toh rejection ki aadat hai… Amazon waale bhi cashbacks nahi dete! 😭😂"
+    },
+    {
+      "id": 5,
+      "text": "Tu na bol rahi hai ya mera luck mujhe dubara dhokha de raha hai? 🤔🤣"
+    },
+    {
+      "id": 6,
+      "text": "Mujhe pata tha, pyaar andanmeera hota hai… aur mera hamesha 'out of stock' hi rehta hai! 😂💔"
+    }
+  ]
+}
